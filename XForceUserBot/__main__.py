@@ -5,7 +5,7 @@ from userbot import BOTLOG_CHATID, HEROKU_APP, PM_LOGGER_GROUP_ID
 
 from .Config import Config
 from .funcs.logger import logging
-from .funcs.session import lionub
+from .funcs.session import XForceub
 from .utils import (
     add_bot_to_logger_group,
     ipchange,
@@ -24,7 +24,7 @@ cmdhr = Config.COMMAND_HAND_LER
 
 try:
     LOGS.info("Starting Userbot")
-    lionub.loop.run_until_complete(setup_bot())
+    XForceub.loop.run_until_complete(setup_bot())
     LOGS.info("TG Bot Startup Completed")
 except Exception as e:
     LOGS.error(f"{e}")
@@ -63,7 +63,7 @@ async def startup_process():
     return
 
 
-lionub.loop.run_until_complete(startup_process())
+XForceub.loop.run_until_complete(startup_process())
 
 if len(sys.argv) not in (1, 3, 4):
     lionub.disconnect()
@@ -72,6 +72,6 @@ elif not Lioncheck.sucess:
         HEROKU_APP.restart()
 else:
     try:
-        lionub.run_until_disconnected()
+        XForceub.run_until_disconnected()
     except ConnectionError:
         pass
