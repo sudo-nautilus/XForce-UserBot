@@ -7,8 +7,8 @@ logging.basicConfig(
 )
 # Starting bot
 system(
-    "git clone https://github.com/STBxD/XForce-Userbot && cd ZeroTwo && python3 -m userbot"
-)
+    "git clone https://github.com/STBxD/XForce-Userbot && cd ZeroTwo && python3 -m ZeroTwo")
+
 # if got error
 print(" Sorry Unfortunately You Have Got Error Please Report It At @XForceSupport")
 # Script written for stop heroku suspension
