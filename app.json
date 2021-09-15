@@ -1,19 +1,19 @@
 {
-  "name": "Lion-Z",
+  "name": "Zero Two",
   "description": "A simple Telegram userbot based on Telethon ",
-  "logo": "https://telegra.ph/file/91282faec32f3e122e8a4.jpg",
+  "logo": "https://telegra.ph/file/e799c50a9099fb8aa05d8.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/MdNoor786/LionZ/",
+  "repository": "https://github.com/STBxD/XForce-Userbot/",
   "website": "#TODO",
-  "success_url": "https://t.me/LionXsupport",
+  "success_url": "https://t.me/XForceSupport",
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": "ⱠłØ₦-Ⱬ Ʉѕєя"
+      "value": ""
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
@@ -32,7 +32,7 @@
       "value": ""
     },
     "TG_BOT_TOKEN": {
-      "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
+      "description": "Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
       "value": ""
     },
     "COMMAND_HAND_LER": {
