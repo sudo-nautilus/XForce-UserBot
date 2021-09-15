@@ -3,7 +3,6 @@ Thenks goes to Emily ( The creater of Poto cmd) from ftg userbot
 """
 
 from PIL import Image, ImageFilter, UnidentifiedImageError
-
 from userbot import lionub
 
 from ..funcs.managers import edit_delete, edit_or_reply

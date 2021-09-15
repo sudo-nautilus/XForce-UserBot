@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-
 from userbot import lionub
 
 from ..funcs.managers import edit_or_reply

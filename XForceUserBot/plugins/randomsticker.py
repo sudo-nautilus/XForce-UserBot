@@ -7,7 +7,6 @@ import nekos
 import requests
 from PIL import Image
 from telethon import functions, types, utils
-
 from userbot import lionub
 
 from ..helpers import reply_id

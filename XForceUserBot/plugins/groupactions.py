@@ -21,7 +21,6 @@ from telethon.tl.types import (
     UserStatusRecently,
 )
 from telethon.utils import get_display_name
-
 from userbot import lionub
 
 from ..funcs.logger import logging

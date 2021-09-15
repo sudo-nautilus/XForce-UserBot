@@ -19,7 +19,6 @@ from telethon.tl.types import (
     MessageMediaPhoto,
 )
 from telethon.utils import get_display_name
-
 from userbot import lionub
 
 from ..funcs.logger import logging

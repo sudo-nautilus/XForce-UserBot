@@ -13,7 +13,6 @@ from telethon.errors import AboutTooLongError
 from telethon.errors.rpcerrorlist import FloodWaitError
 from telethon.tl.functions.account import UpdateProfileRequest
 from telethon.tl.functions.users import GetFullUserRequest
-
 from userbot import lionub
 
 from ..Config import Config

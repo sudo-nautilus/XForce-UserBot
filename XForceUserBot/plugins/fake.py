@@ -4,7 +4,6 @@ from random import choice, randint
 from telethon.errors import BadRequestError
 from telethon.tl.functions.channels import EditAdminRequest
 from telethon.tl.types import ChatAdminRights
-
 from userbot import lionub
 
 from ..funcs.managers import edit_delete, edit_or_reply

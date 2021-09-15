@@ -3,7 +3,6 @@ import os
 from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
 from PIL import Image
-
 from userbot import lionub
 
 from ..Config import Config

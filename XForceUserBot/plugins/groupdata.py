@@ -17,7 +17,6 @@ from telethon.tl.types import (
     MessageActionChannelMigrateFrom,
 )
 from telethon.utils import get_input_location
-
 from userbot import lionub
 
 from ..funcs.logger import logging

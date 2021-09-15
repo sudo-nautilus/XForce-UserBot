@@ -5,7 +5,6 @@ from PIL import Image, ImageDraw, ImageFont
 from pytz import country_names as c_n
 from pytz import country_timezones as c_tz
 from pytz import timezone as tz
-
 from userbot import lionub
 
 from ..Config import Config

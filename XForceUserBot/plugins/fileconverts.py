@@ -17,7 +17,6 @@ from telethon.errors import PhotoInvalidDimensionsError
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
 from telethon.tl.functions.messages import SendMediaRequest
 from telethon.utils import get_attributes
-
 from userbot import lionub
 
 from ..Config import Config

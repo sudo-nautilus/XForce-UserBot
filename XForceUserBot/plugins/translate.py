@@ -1,7 +1,6 @@
 from asyncio import sleep
 
 from googletrans import LANGUAGES, Translator
-
 from userbot import lionub
 
 from ..funcs.managers import edit_delete, edit_or_reply

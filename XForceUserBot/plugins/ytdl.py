@@ -10,6 +10,7 @@ from time import time
 from telethon.errors.rpcerrorlist import YouBlockedUserError
 from telethon.tl import types
 from telethon.utils import get_attributes
+from userbot import lionub
 from wget import download
 from youtube_dl import YoutubeDL
 from youtube_dl.utils import (
@@ -22,8 +23,6 @@ from youtube_dl.utils import (
     UnavailableVideoError,
     XAttrMetadataError,
 )
-
-from userbot import lionub
 
 from ..funcs import pool
 from ..funcs.logger import logging

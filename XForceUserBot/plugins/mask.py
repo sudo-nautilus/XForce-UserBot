@@ -5,7 +5,6 @@ import os
 from telegraph import exceptions, upload_file
 from telethon import events
 from telethon.errors.rpcerrorlist import YouBlockedUserError
-
 from userbot import lionub
 
 from ..Config import Config

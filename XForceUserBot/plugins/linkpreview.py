@@ -1,6 +1,5 @@
 from telethon import events
 from telethon.errors.rpcerrorlist import YouBlockedUserError
-
 from userbot import lionub
 
 from ..funcs.managers import edit_or_reply

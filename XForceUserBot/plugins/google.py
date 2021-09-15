@@ -10,7 +10,6 @@ from bs4 import BeautifulSoup
 from PIL import Image
 from search_engine_parser import BingSearch, GoogleSearch, YahooSearch
 from search_engine_parser.core.exceptions import NoResultsOrTrafficError
-
 from userbot import lionub
 
 from ..Config import Config

@@ -7,7 +7,6 @@ import os
 
 from glitch_this import ImageGlitcher
 from PIL import Image
-
 from userbot import lionub
 
 from ..funcs.managers import edit_delete

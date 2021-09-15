@@ -7,7 +7,6 @@ from telethon.errors import (
 from telethon.tl import functions
 from telethon.tl.functions.channels import GetFullChannelRequest
 from telethon.tl.functions.messages import GetFullChatRequest
-
 from userbot import lionub
 
 from ..funcs.managers import edit_delete, edit_or_reply

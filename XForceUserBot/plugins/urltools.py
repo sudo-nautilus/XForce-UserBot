@@ -1,7 +1,6 @@
 import requests
-from validators.url import url
-
 from userbot import lionub
+from validators.url import url
 
 from ..funcs.managers import edit_delete, edit_or_reply
 

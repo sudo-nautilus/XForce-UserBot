@@ -12,7 +12,6 @@ from barcode.writer import ImageWriter
 from bs4 import BeautifulSoup
 from PIL import Image, ImageColor
 from telethon.errors.rpcerrorlist import YouBlockedUserError
-
 from userbot import lionub
 
 from ..Config import Config

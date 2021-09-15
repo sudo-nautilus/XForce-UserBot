@@ -9,7 +9,6 @@ import string
 
 from PIL import Image, ImageFilter
 from telethon.tl.functions.messages import ImportChatInviteRequest as Get
-
 from userbot import lionub
 
 from ..funcs.managers import edit_delete, edit_or_reply

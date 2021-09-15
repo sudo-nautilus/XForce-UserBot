@@ -1,7 +1,6 @@
 #    Credts @Copyless786
 from geopy.geocoders import Nominatim
 from telethon.tl import types
-
 from userbot import lionub
 
 from ..funcs.managers import edit_or_reply

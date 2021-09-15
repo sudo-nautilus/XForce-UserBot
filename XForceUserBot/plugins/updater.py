@@ -7,7 +7,6 @@ import heroku3
 import urllib3
 from git import Repo
 from git.exc import GitCommandError, InvalidGitRepositoryError, NoSuchPathError
-
 from userbot import HEROKU_APP, UPSTREAM_REPO_URL, lionub
 
 from ..Config import Config

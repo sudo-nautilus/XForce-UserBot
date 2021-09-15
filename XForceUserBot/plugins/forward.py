@@ -1,7 +1,6 @@
 import string
 
 from telethon.tl.types import Channel, MessageMediaWebPage
-
 from userbot import lionub
 from userbot.funcs.logger import logging
 

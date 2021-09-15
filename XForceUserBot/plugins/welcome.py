@@ -1,7 +1,6 @@
 # ported from paperplaneExtended by avinashreddy3108 for media support
 from telethon import events
 from telethon.utils import get_display_name
-
 from userbot import lionub
 from userbot.funcs.logger import logging
 

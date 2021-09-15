@@ -10,9 +10,8 @@ from datetime import datetime
 
 import requests
 from selenium import webdriver
-from validators.url import url
-
 from userbot import lionub
+from validators.url import url
 
 from ..Config import Config
 from ..funcs.managers import edit_or_reply

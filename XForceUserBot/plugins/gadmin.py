@@ -10,7 +10,6 @@ from telethon.tl.types import (
     MessageEntityMentionName,
 )
 from telethon.utils import get_display_name
-
 from userbot import lionub
 
 from ..funcs.devs import DEVLIST

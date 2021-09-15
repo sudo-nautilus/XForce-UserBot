@@ -3,7 +3,6 @@ import re
 
 from bs4 import BeautifulSoup
 from requests import get
-
 from userbot import lionub
 
 from ..funcs.managers import edit_delete, edit_or_reply

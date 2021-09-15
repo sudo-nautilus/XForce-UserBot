@@ -11,7 +11,6 @@ from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
 from telethon.tl import types
 from telethon.utils import get_attributes
-
 from userbot import lionub
 
 from ..Config import Config

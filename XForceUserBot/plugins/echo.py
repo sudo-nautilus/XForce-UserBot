@@ -4,7 +4,6 @@ Idea by @BlazingRobonix
 """
 
 from telethon.utils import get_display_name
-
 from userbot import lionub
 
 from ..funcs.managers import edit_delete, edit_or_reply

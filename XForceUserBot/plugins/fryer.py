@@ -5,7 +5,6 @@ from PIL import Image, ImageEnhance, ImageOps
 from telethon import events
 from telethon.errors.rpcerrorlist import YouBlockedUserError
 from telethon.tl.types import DocumentAttributeFilename
-
 from userbot import lionub
 
 from ..funcs.managers import edit_or_reply

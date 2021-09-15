@@ -13,7 +13,6 @@ from jikanpy import Jikan
 from jikanpy.exceptions import APIException
 from pySmartDL import SmartDL
 from telegraph import exceptions, upload_file
-
 from userbot import lionub
 
 from ..funcs.managers import edit_delete, edit_or_reply

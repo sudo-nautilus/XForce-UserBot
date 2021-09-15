@@ -7,7 +7,6 @@ import os
 # imported from uniborg
 from justwatch import JustWatch, justwatchapi
 from pySmartDL import SmartDL
-
 from userbot import lionub
 
 from ..Config import Config

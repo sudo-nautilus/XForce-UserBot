@@ -3,7 +3,6 @@ import random
 
 import requests
 from bs4 import BeautifulSoup
-
 from userbot import lionub
 
 from ..funcs.logger import logging

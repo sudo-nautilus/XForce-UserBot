@@ -18,7 +18,6 @@ from telethon.tl.types import (
     MessageEntityUnderline,
 )
 from telethon.utils import add_surrogate, del_surrogate
-
 from userbot import lionub
 from userbot.funcs.logger import logging
 

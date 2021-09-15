@@ -1,6 +1,5 @@
 # Urban Dictionary for LionZ by @Copyless786
 from PyDictionary import PyDictionary
-
 from userbot import lionub
 
 from ..funcs.logger import logging

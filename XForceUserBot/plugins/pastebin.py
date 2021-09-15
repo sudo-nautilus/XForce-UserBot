@@ -8,7 +8,6 @@ from pygments.lexers import Python3Lexer
 from telethon.errors.rpcerrorlist import YouBlockedUserError
 from telethon.utils import get_extension
 from urlextract import URLExtract
-
 from userbot import lionub
 
 from ..Config import Config

@@ -4,7 +4,6 @@ from collections import defaultdict, deque
 import regex
 from telethon import events
 from telethon.tl import functions, types
-
 from userbot import lionub
 
 from ..Config import Config
