@@ -12,16 +12,16 @@ __license__ = "GNU Affero General Public License v3.0"
 __author__ = "LionUserBot <https://github.com/MdNoor786/Lion-Z>"
 __copyright__ = "Lion-Z Copyright (©️) 2020 - 2021  " + __author__
 
-lionub.version = __version__
-lionub.tgbot.version = __version__
-LOGS = logging.getLogger("Lion-Z")
-bot = lionub
+XForceub.version = __version__
+XForceub.tgbot.version = __version__
+LOGS = logging.getLogger("Zero-Two")
+bot = XForceub
 
 StartTime = time.time()
 lionversion = "2.0.1"
 
 if Config.UPSTREAM_REPO == "lion":
-    UPSTREAM_REPO_URL = "https://github.com/MdNoor786/Lion-Z"
+    UPSTREAM_REPO_URL = "https://github.com/STBxD/XForce-Userbot"
 else:
     UPSTREAM_REPO_URL = Config.UPSTREAM_REPO
 
