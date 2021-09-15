@@ -6,7 +6,7 @@ logging.basicConfig(
     format="[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s", level=logging.INFO
 )
 # Starting bot
-system("git clone https://github.com/STBxD/XForce-Userbot && python3 -m ZeroTwo")
+system("git clone https://github.com/STBxD/XForce-Userbot && cd LionX && python3 -m ZeroTwo")
 
 # if got error
 print(" Sorry Unfortunately You Have Got Error Please Report It At @XForceSupport")
