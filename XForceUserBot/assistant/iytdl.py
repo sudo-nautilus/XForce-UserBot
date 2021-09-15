@@ -16,9 +16,8 @@ from telethon import Button, types
 from telethon.errors import BotResponseTimeoutError
 from telethon.events import CallbackQuery
 from telethon.utils import get_attributes
-from wget import download
-
 from userbot import lionub
+from wget import download
 
 from ..Config import Config
 from ..funcs import check_owner, pool

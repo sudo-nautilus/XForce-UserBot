@@ -7,7 +7,6 @@ from telethon import Button, events
 from telethon.errors import UserIsBlockedError
 from telethon.events import CallbackQuery, StopPropagation
 from telethon.utils import get_display_name
-
 from userbot import Config, lionub
 
 from ..funcs import check_owner, pool
