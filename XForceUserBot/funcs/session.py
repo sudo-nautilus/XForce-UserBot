@@ -16,7 +16,7 @@ else:
     session = "LionZ"
 
 try:
-    lionub = LionZClient(
+    XForceub = LionZClient(
         session=session,
         api_id=Config.APP_ID,
         api_hash=Config.API_HASH,
@@ -31,7 +31,7 @@ except Exception as e:
     sys.exit()
 
 
-lionub.tgbot = tgbot = LionZClient(
+XForceub.tgbot = tgbot = LionZClient(
     session="LionZTgBot",
     api_id=Config.APP_ID,
     api_hash=Config.API_HASH,
