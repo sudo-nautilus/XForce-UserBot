@@ -7,7 +7,7 @@ logging.basicConfig(
 )
 # Starting bot
 system(
-    "git clone https://github.com/STBxD/XForce-Userbot && cd LionX && python3 -m ZeroTwo"
+    "git clone https://github.com/STBxD/XForce-Userbot && cd ZeroTwo && python3 -m ZeroTwo"
 )
 
 # if got error
