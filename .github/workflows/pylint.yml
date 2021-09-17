@@ -1,6 +1,9 @@
 name: PyLint
 
 on: [push, pull_request]
+    paths-ignore:
+      - '**.md'
+      - 'LICENSE'
 
 jobs:
   PEP8:
